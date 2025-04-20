@@ -1,8 +1,5 @@
 ⸻
 
-README.md
-Create a file called README.md in the root of your project with contents something like this:
-
 Foundational Project: Long‑Term Stock Investor for Indian Market
 A Streamlit‑powered dashboard and Python library for:
 
