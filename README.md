@@ -40,4 +40,4 @@ Run the app streamlit run streamlit_app.py
 
 📄 License
 
-MIT © 2025 Priyesh
+MIT © 2025 Suraj
