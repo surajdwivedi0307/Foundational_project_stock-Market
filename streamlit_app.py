@@ -412,15 +412,7 @@ def main():
         - Based on historical data patterns; no guarantee of future performance.
         - Should be used as a tool alongside other research.
 
-        ### Project Information
-        **ISB AMPBA Batch No. 22 - Summer 2025 Foundational Project**  
-        **Professor:** Bharani Kumar Depuru  
-        **TA:** K. Mohan  
-
-        **Group Members:**  
-        - **Kanishk Rana** — Kanishk_Rana_ampba2025S@isb.edu  
-        - **Ashish Jonathan Dcruze** — Ashish_Dcruze_ampba2025S@isb.edu  
-        - **Priyesh Jagtap** — Priyesh_Jagtap_ampba2025S@isb.edu  
+        ### Project Information 
         - **Suraj Dwivedi** — Suraj_Dwivedi_ampba2025S@isb.edu
 
         ### Contact
