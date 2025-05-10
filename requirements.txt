@@ -14,3 +14,4 @@ jupyter>=1.0.0
 datetime
 ipykernel
 ipywidgets>=7.6.0
+shap
