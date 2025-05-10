@@ -414,9 +414,6 @@ def main():
 
         ### Project Information 
         - **Suraj Dwivedi** — Suraj_Dwivedi_ampba2025S@isb.edu
-
-        ### Contact
-        For questions or feedback, please contact [ampba_office@isb.edu](mailto:ampba_office@isb.edu).
         """, unsafe_allow_html=True)
         st.sidebar.markdown("---")
         st.sidebar.info(f"**Version**: 1.0.0\n**Last Updated**: {datetime.now().strftime('%Y-%m-%d')}")
