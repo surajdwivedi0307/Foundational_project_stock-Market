@@ -12,7 +12,7 @@ Data‑drift monitoring (PSI)
 
 🚀 Quickstart
 Clone
-git clone https://github.com/Priyesh122/Foundational_project_stock-Market.git
+git clone https://github.com/surajdwivedi0307/Foundational_project_stock-Market.git
 cd Foundational_project_stock-Market
 Create & activate a virtual environment
 python -m venv venv source venv/bin/activate # Linux / macOS venv\Scripts\activate # Windows PowerShell
